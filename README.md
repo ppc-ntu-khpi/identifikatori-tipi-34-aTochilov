@@ -1,5 +1,5 @@
 # Практична робота "Ідентифікатори, ключові слова, типи даних"
-<img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/computation.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/identifikatori-tipi-34-aTochilov/blob/master/identifiers.png" width="100%"/>
 
 ## Обране завдання
 
