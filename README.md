@@ -1,5 +1,6 @@
 # Практична робота "Ідентифікатори, ключові слова, типи даних"
 <img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/computation.png" width="100%"/>
+
 ## Обране завдання
 
 Знайти всі [злі числа](https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE) між двома заданими числами (метод ```Calculate``` має повернути рядок - список таких чисел через кому)
